@@ -25,3 +25,13 @@ Step2:-
 i)Click on existing project.
 
 ii)select configure and convet to maven project.
+
+Step3:-
+--------------------------------------------------------------------------------------------
+Run these commands to eclipse to run the maven test:-
+
+1.mvn test
+
+2.mvn site
+
+3.mvn jetty:run
