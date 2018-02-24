@@ -30,7 +30,7 @@ Step3:-
 --------------------------------------------------------------------------------------------
 Run these commands to eclipse to run the maven test:-
 
-1.mvn test
+1.mvn test(cd /eclipse-workspace/projectname)
 
 2.mvn site
 
